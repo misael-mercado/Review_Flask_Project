@@ -1,0 +1,12 @@
+venv/
+instance/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.sqlite
+drop_db.py
+package-lock.json
+static/profile_pics/*
+!static/profile_pics/default.jpg
